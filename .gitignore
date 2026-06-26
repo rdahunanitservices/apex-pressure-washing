@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Vercel
+.vercel/
+.now/
+
+# Environment
+.env
+.env.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+
+# Playwright / temp screenshots
+.playwright-mcp/
+*.jpeg
+*.png
+!src/**/*.png
+!src/**/*.jpeg
