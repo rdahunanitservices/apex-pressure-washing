@@ -20,3 +20,5 @@ Thumbs.db
 *.png
 !src/**/*.png
 !src/**/*.jpeg
+
+.vercel
